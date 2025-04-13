@@ -16,3 +16,4 @@ Latency: The time a customer waits to access a service.
 2. When each customer receives the desired service and the resource unit (employee) is freed, the employee can serve the next person in the queue.
 3. We assume that the service time follows a normal distribution with a mean of 10 and a standard deviation of 2. Furthermore, our customers enter the store at random times.
 4. The candy store has certain high-priority customers who should be served as soon as they enter the store. The model is reconstructed using this assumption.
+4.1 the 
